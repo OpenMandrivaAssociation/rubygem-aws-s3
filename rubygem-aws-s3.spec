@@ -2,7 +2,7 @@
 
 Name:       rubygem-%{oname}
 Version:    0.6.2
-Release:    %mkrel 1
+Release:    2
 Summary:    Client library for Amazon's Simple Storage Service's REST API
 Group:      Development/Ruby
 License:    MIT
