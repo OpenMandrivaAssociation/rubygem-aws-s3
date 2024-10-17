@@ -6,7 +6,7 @@ Release:    2
 Summary:    Client library for Amazon's Simple Storage Service's REST API
 Group:      Development/Ruby
 License:    MIT
-URL:        http://amazon.rubyforge.org
+URL:        https://amazon.rubyforge.org
 Source0:    http://rubygems.org/gems/%{oname}-%{version}.gem
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}-root
 Requires:   rubygems
